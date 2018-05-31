@@ -2,7 +2,9 @@
 
 Este repositório contem uma aplicação desenvolvida com ReactJS. 
 
-A página inicial possui ainda um link para uma página de cadastros de contatos
+Apágina inicial mostra os contatos, onde pode excluí-los.
+A página inicial possui ainda um link para uma página de cadastros de contatos, 
+onde preenche nome, e-mail e adiciona uma foto.
 
 ### Instalação
 
