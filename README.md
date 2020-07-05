@@ -1,22 +1,22 @@
-# Projeto Contacts
+# Contacts Project
 
-Este repositório contem uma aplicação desenvolvida com ReactJS. 
+This repository contains an application developed with ReactJS.
 
-Apágina inicial mostra os contatos, onde pode excluí-los.
-A página inicial possui ainda um link para uma página de cadastros de contatos, 
-onde preenche nome, e-mail e adiciona uma foto.
+The home page shows the contacts, where you can delete them.
+The home page also has a link to a contact registration page,
+where you fill in name, email and add a photo.
 
-### Instalação
+### Installation
 
 ```
 * clone https://github.com/gilmarvoge/Contacts.git
-* instalar node.js (https://nodejs.org/en/download/)
-Via cmd, entrar no diretório. Ex: cd user/documents/contacts
+* install node.js (https://nodejs.org/en/download/)
+Via cmd, enter the directory. Ex: cd user / documents / contacts
 
-executar comandos abaixo para iniciar o server e o app
-* node server.js -- executar servidor
-* npm install -- instalar pacotes
-* npm start -- iniciar o aplicativo
+execute commands below to start the server and the app
+* node server.js - run server
+* npm install - install packages
+* npm start - start the application
 ```
 
 
